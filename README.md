@@ -2,7 +2,7 @@
 
 ### Made by:
 
-* Diogo Silvério
+* Diogo Silvério (Self)
 * Pedro Xavier
 
 ### Folder Content:
